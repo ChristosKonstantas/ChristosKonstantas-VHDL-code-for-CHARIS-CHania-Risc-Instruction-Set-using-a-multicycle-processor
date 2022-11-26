@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/PROC_TB_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="proc_tb" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_textio" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/proc_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffffff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/R_A_M/inst_dout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">inst_dout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">inst_dout[31:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#800080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/control_map/state" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/datapath_map/Decode_Stage/RF/\gen_reg(5)\/Reg31/dataout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dataout[31:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/datapath_map/Decode_Stage/RF/\gen_reg(3)\/Reg31/dataout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dataout[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffff00</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/R_A_M/inst_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">inst_addr[10:0]</obj_property>
+      <obj_property name="ObjectShortName">inst_addr[10:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff00ff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/R_A_M/data_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_addr[10:0]</obj_property>
+      <obj_property name="ObjectShortName">data_addr[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff00ff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/R_A_M/data_din" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_din[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_din[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff00ff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/R_A_M/data_dout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_dout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_dout[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff00ff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/datapath_map/Decode_Stage/RF/\gen_reg(10)\/Reg31/dataout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dataout[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffffff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/datapath_map/Decode_Stage/RF/\gen_reg(16)\/Reg31/dataout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dataout[31:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffa500</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/datapath_map/Decode_Stage/RF/\gen_reg(4)\/Reg31/dataout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dataout[31:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#808000</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/datapath_map/MEM_STAGE/alu_mem_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">alu_mem_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_mem_addr[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/datapath_map/MEM_STAGE/mem_dataout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mem_dataout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_dataout[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#c0c0c0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_tb/uut/datapath_map/MEM_STAGE/mem_datain" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mem_datain[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_datain[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#c0c0c0</obj_property>
+   </wvobject>
+</wave_config>

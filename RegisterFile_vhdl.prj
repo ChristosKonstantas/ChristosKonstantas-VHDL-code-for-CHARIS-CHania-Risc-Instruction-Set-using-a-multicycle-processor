@@ -1,0 +1,5 @@
+vhdl work "C:\Users\Matzik\Xilinx\ergasia1\Register.vhd"
+vhdl work "C:\Users\Matzik\Xilinx\ergasia1\Mux32to1_b.vhd"
+vhdl work "C:\Users\Matzik\Xilinx\ergasia1\Mux32to1.vhd"
+vhdl work "C:\Users\Matzik\Xilinx\ergasia1\Decoder5to32bit.vhd"
+vhdl work "C:\Users\Matzik\Xilinx\ergasia1\RegisterFile.vhd"

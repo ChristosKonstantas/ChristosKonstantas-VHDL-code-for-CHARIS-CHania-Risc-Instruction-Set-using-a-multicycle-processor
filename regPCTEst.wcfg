@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Matzik/Xilinx/ergasia1/RegPCTEST_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="regpctest" />
+            <top_module name="std_logic_1164" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/regpctest/data_in" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_in[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regpctest/lden" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">lden</obj_property>
+      <obj_property name="ObjectShortName">lden</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regpctest/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regpctest/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regpctest/data_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regpctest/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+</wave_config>
