@@ -1,0 +1,5 @@
+vhdl work "PC_Register.vhd"
+vhdl work "Mux2to1_32bits.vhd"
+vhdl work "RAM.vhd"
+vhdl work "IFSTAGE.vhd"
+vhdl work "Fetch_Unit.vhd"

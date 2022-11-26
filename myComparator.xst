@@ -1,0 +1,5 @@
+set -tmpdir "C:/Organwsi workspace/ergasia1/xst/projnav.tmp"
+set -xsthdpdir "C:/Organwsi workspace/ergasia1/xst"
+elaborate
+-ifn myComparator.prj
+-ifmt mixed

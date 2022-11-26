@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Matzik/Xilinx/ergasia1/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Matzik/Xilinx/ergasia1/xst"
+elaborate
+-ifn Mux2to1_32bits.prj
+-ifmt mixed

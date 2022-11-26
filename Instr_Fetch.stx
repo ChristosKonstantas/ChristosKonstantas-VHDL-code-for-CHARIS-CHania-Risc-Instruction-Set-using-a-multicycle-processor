@@ -1,0 +1,52 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Matzik/Xilinx/ergasia1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 4.00 secs
+Total CPU time to Xst completion: 4.00 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Matzik/Xilinx/ergasia1/xst
+
+
+Total REAL time to Xst completion: 4.00 secs
+Total CPU time to Xst completion: 4.02 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3607 - Unit work/Instr_Fetch is now defined in a different file.  It was defined in "C:/Organwsi workspace/ergasia1/Instr_Fetch.vhd", and is now defined in "C:/Users/Matzik/Xilinx/ergasia1/Instr_Fetch.vhd".
+WARNING:HDLParsers:3607 - Unit work/Instr_Fetch/Behavioral is now defined in a different file.  It was defined in "C:/Organwsi workspace/ergasia1/Instr_Fetch.vhd", and is now defined in "C:/Users/Matzik/Xilinx/ergasia1/Instr_Fetch.vhd".
+WARNING:HDLParsers:3607 - Unit work/RAM is now defined in a different file.  It was defined in "C:/Organwsi workspace/ergasia1/RAM.vhd", and is now defined in "C:/Users/Matzik/Xilinx/ergasia1/RAM.vhd".
+WARNING:HDLParsers:3607 - Unit work/RAM/syn is now defined in a different file.  It was defined in "C:/Organwsi workspace/ergasia1/RAM.vhd", and is now defined in "C:/Users/Matzik/Xilinx/ergasia1/RAM.vhd".
+Compiling vhdl file "C:/Users/Matzik/Xilinx/ergasia1/PC_Register.vhd" in Library work.
+Architecture behavioral of Entity pc_register is up to date.
+Compiling vhdl file "C:/Users/Matzik/Xilinx/ergasia1/Mux2to1_32bits.vhd" in Library work.
+Architecture behavioral of Entity mux2to1_32bits is up to date.
+Compiling vhdl file "C:/Users/Matzik/Xilinx/ergasia1/IFSTAGE.vhd" in Library work.
+Entity <ifstage> compiled.
+Entity <ifstage> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Users/Matzik/Xilinx/ergasia1/RAM.vhd" in Library work.
+Architecture syn of Entity ram is up to date.
+Compiling vhdl file "C:/Users/Matzik/Xilinx/ergasia1/Instr_Fetch.vhd" in Library work.
+Entity <instr_fetch> compiled.
+ERROR:HDLParsers:3312 - "C:/Users/Matzik/Xilinx/ergasia1/Instr_Fetch.vhd" Line 89. Undefined symbol 'data_addr'.
+ERROR:HDLParsers:1209 - "C:/Users/Matzik/Xilinx/ergasia1/Instr_Fetch.vhd" Line 89. data_addr: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/Matzik/Xilinx/ergasia1/Instr_Fetch.vhd" Line 90. Undefined symbol 'data_din'.
+ERROR:HDLParsers:1209 - "C:/Users/Matzik/Xilinx/ergasia1/Instr_Fetch.vhd" Line 90. data_din: Undefined symbol (last report in this block)
+ERROR:HDLParsers:851 - "C:/Users/Matzik/Xilinx/ergasia1/Instr_Fetch.vhd" Line 83. Formal data_addr of RAM with no default value must be associated with an actual value.
+
+
+Total REAL time to Xst completion: 6.00 secs
+Total CPU time to Xst completion: 5.83 secs
+ 
+--> 
+
+Total memory usage is 4497944 kilobytes
+
+Number of errors   :    5 (   0 filtered)
+Number of warnings :    5 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

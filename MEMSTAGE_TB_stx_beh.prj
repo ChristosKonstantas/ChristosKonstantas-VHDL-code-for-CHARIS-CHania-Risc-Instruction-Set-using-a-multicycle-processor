@@ -1,0 +1,2 @@
+vhdl isim_temp "MEMSTAGE.vhd"
+vhdl isim_temp "MEMSTAGE_TB.vhd"

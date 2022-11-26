@@ -1,0 +1,3 @@
+vhdl work "PC_Register.vhd"
+vhdl work "Mux2to1_32bits.vhd"
+vhdl work "IFSTAGE.vhd"

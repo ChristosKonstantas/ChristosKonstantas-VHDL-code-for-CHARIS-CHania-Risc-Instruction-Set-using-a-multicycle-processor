@@ -1,0 +1,5 @@
+vhdl work "C:\Users\Matzik\Xilinx\ergasia1\PC_Register.vhd"
+vhdl work "C:\Users\Matzik\Xilinx\ergasia1\Mux2to1_32bits.vhd"
+vhdl work "C:\Users\Matzik\Xilinx\ergasia1\RAM.vhd"
+vhdl work "C:\Users\Matzik\Xilinx\ergasia1\IFSTAGE.vhd"
+vhdl work "C:\Users\Matzik\Xilinx\ergasia1\Instr_Fetch.vhd"

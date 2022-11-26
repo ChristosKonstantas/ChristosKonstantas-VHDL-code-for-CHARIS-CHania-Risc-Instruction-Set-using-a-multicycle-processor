@@ -1,0 +1,3 @@
+vhdl isim_temp "PC_Register.vhd"
+vhdl isim_temp "Mux2to1_32bits.vhd"
+vhdl isim_temp "IFSTAGE.vhd"

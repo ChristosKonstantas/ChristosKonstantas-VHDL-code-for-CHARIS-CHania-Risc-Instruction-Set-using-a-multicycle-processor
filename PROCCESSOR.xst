@@ -1,0 +1,5 @@
+set -tmpdir "C:/Organwsi workspace/dikomou/SOURCES/ergasia1/xst/projnav.tmp"
+set -xsthdpdir "C:/Organwsi workspace/dikomou/SOURCES/ergasia1/xst"
+elaborate
+-ifn PROCCESSOR.prj
+-ifmt mixed

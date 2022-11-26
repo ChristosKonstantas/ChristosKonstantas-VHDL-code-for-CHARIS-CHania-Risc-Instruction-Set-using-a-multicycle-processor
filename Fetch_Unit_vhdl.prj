@@ -1,0 +1,5 @@
+vhdl work "C:\Organwsi workspace\dikomou\SOURCES\ergasia1\PC_Register.vhd"
+vhdl work "C:\Organwsi workspace\dikomou\SOURCES\ergasia1\Mux2to1_32bits.vhd"
+vhdl work "C:\Organwsi workspace\dikomou\SOURCES\ergasia1\RAM.vhd"
+vhdl work "C:\Organwsi workspace\dikomou\SOURCES\ergasia1\IFSTAGE.vhd"
+vhdl work "C:\Organwsi workspace\dikomou\SOURCES\ergasia1\Fetch_Unit.vhd"
