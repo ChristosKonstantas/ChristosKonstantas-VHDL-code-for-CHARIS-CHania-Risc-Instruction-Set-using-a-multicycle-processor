@@ -1,0 +1,2 @@
+vhdl isim_temp "branchMux2to1.vhd"
+vhdl isim_temp "brmuxTest.vhd"

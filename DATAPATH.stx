@@ -1,0 +1,65 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/Register.vhd" in Library work.
+Architecture behavioral of Entity register32bit is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/Decoder5to32bit.vhd" in Library work.
+Architecture behavioral of Entity decoder5to32bit is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/Mux32to1.vhd" in Library work.
+Architecture behavioral of Entity mux32to1_a is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/Mux32to1_b.vhd" in Library work.
+Architecture behavioral of Entity mux32to1_b is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/branchMux2to1.vhd" in Library work.
+Architecture behavioral of Entity branchmux2to1 is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/Mux2to1_32bits.vhd" in Library work.
+Architecture behavioral of Entity mux2to1_32bits is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/ALU.vhd" in Library work.
+Architecture behavioral of Entity alu is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/RegisterFile.vhd" in Library work.
+Architecture behavioral of Entity registerfile is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/Mux2to1_5bits.vhd" in Library work.
+Architecture behavioral of Entity mux2to1_5bits is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/Extender.vhd" in Library work.
+Architecture behavioral of Entity extender is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/PC_Register.vhd" in Library work.
+Architecture behavioral of Entity pc_register is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/IFSTAGE.vhd" in Library work.
+Architecture behavioral of Entity ifstage is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/DECSTAGE.vhd" in Library work.
+Architecture behavioral of Entity decstage is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/EXSTAGE.vhd" in Library work.
+Architecture behavioral of Entity exstage is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/MEMSTAGE.vhd" in Library work.
+Architecture behavioral of Entity memstage is up to date.
+Compiling vhdl file "C:/Users/Matzik/Desktop/New folder (3)/New folderhh/yo/SOURCES/ergasia1/DATAPATH.vhd" in Library work.
+Entity <datapath_mc> compiled.
+Entity <DATAPATH_MC> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.61 secs
+ 
+--> 
+
+Total memory usage is 4497900 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,4 @@
+vhdl work "Mux2to1_32bits.vhd"
+vhdl work "branchMux2to1.vhd"
+vhdl work "ALU.vhd"
+vhdl work "EXSTAGE.vhd"

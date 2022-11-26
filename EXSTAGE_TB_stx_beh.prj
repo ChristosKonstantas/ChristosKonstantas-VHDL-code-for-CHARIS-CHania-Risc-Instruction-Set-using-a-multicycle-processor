@@ -1,0 +1,5 @@
+vhdl isim_temp "Mux2to1_32bits.vhd"
+vhdl isim_temp "branchMux2to1.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "EXSTAGE.vhd"
+vhdl isim_temp "EXSTAGE_TB.vhd"
